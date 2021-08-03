@@ -14,7 +14,7 @@ The file [testIzikowitz](https://github.com/chiarabarbieri/SouthAmerica_MusicIns
 
 ### Supplementary Tables
 
-* Supplementary Table S1: Classification of instruments according to Hornbostel and Sachs (1914), subsequent revisions and new data for South America. Available at (ADD LINK)
+* [Supplementary Table S1](https://github.com/chiarabarbieri/SouthAmerica_MusicInstruments/blob/main/Table_S1_Sachs%26Hornbostel.xlsx): Classification of instruments according to Hornbostel and Sachs (1914), subsequent revisions and new data for South America. 
 
 * [Supplementary Table S2](https://github.com/chiarabarbieri/SouthAmerica_MusicInstruments/blob/main/Table_S2_Izikowitz.csv): Instrument repertoire based on the work of Izikowitz (1935) on ethnographic data, and information on the societies for which the instrument data is found. For each society, the presence/absence of each music instrument is recorded (57 types of instruments in 144 societies or ethnic groups). Character state 1 marks the definite presence of an instrument in the ethnographic record and 0 marks the lack of evidence for a particular instrument. 
 
