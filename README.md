@@ -5,7 +5,7 @@
 ***
 
 
-This repository contains the data and scripts for the paper "Cultural macroevolution of musical instruments in South America", written by Gabriel Aguirre-Fernandez, Chiara Barbieri, Anna Graff, José Pérez de Arce A., Hyram Moreno and Marcelo Sánchez-Villagra.
+This repository contains the data and scripts for the paper "Cultural macroevolution of musical instruments in South America", written by Gabriel Aguirre-Fernandez, Chiara Barbieri, Anna Graff, José Pérez de Arce A., Hyram Moreno and Marcelo Sánchez-Villagra. [LINK](https://www.nature.com/articles/s41599-021-00881-z)
 
 The file [testIzikowitz](https://github.com/chiarabarbieri/SouthAmerica_MusicInstruments/blob/main/testIzikovitz.r) includes R commands to elaborate the aerophone data from Izikowitz classification [Supplementary Table S2](https://github.com/chiarabarbieri/SouthAmerica_MusicInstruments/blob/main/Table_S2_Izikowitz.csv) into a distance matrix, create a Neighbor Joining tree with bootstrap values, display the distribution of different instruments on a continental map, evaluate relationships between different societies by comparinng their similarity in music instruments set and their geographic distances.
 
